@@ -1,5 +1,5 @@
 {
-    "name" : "vow",
+    "name" : "vow-with-domains",
     "version" : "0.3.13",
     "description" : "Promises/A+ proposal compatible promises library",
     "homepage" : "https://github.com/dfilatov/vow",
@@ -11,7 +11,7 @@
     }],
     "repository":{
         "type" : "git",
-        "url"  : "http://github.com/dfilatov/vow.git"
+        "url"  : "http://github.com/bem-node/vow-with-domains.git"
     },
     "dependencies": {},
     "devDependencies": {
