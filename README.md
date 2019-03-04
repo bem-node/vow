@@ -1,3 +1,5 @@
+Внимание, из-за бага в npm версия в package.json не увеличивается! Поднимается только git tag
+
 <a href="http://promises-aplus.github.com/promises-spec"><img src="http://promises-aplus.github.com/promises-spec/assets/logo-small.png" align="right" /></a>
 Vow [![Build Status](https://secure.travis-ci.org/dfilatov/vow.png)](http://travis-ci.org/dfilatov/vow)
 =========
